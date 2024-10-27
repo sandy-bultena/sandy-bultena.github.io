@@ -32,3 +32,8 @@ $$a_i = f(a_{i-1})$$
 Added docsify LaTex
 
 Removed Jeckyll stuff
+
+```python
+# Is this code clickable
+print("hello")
+```
