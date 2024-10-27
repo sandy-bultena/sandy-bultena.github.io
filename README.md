@@ -1,7 +1,7 @@
 
 # sandy-bultena.github.io
 Just trying
-removed jekyll top layer
+Where the hell is the sidebar?
 
 $a=\sqrt b$
 
