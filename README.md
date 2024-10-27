@@ -2,6 +2,7 @@
 # sandy-bultena.github.io
 Just trying
 Where the hell is the sidebar?
+Maybe now?
 
 $a=\sqrt b$
 
