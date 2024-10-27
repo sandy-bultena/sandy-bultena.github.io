@@ -6,7 +6,7 @@ title: Blogging Like a Hacker
 # sandy-bultena.github.io
 Just trying
 
-Removed _something file,
+Removed jekyll stuff
 
 added the .nojekyll file
 
