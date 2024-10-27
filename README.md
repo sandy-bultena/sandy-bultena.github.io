@@ -33,7 +33,3 @@ Added docsify LaTex
 
 Removed Jeckyll stuff
 
-```python
-# Is this code clickable
-print("hello")
-```
