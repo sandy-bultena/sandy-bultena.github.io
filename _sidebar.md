@@ -46,8 +46,7 @@
 
 **Math To Python**
 
-- [Accumulator and Series Pattern](https://john-abbott-college.github.io/SN1-Notes/Notes/04_accumulator_pattern.pdf))
-
+- [Accumulator and Series Pattern](Notes/04_accumulator_pattern)
 **Loops** 
 
 - [For loop](Notes/04_for_loop)
