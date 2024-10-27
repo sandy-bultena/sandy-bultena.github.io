@@ -107,7 +107,10 @@
       loadSidebar: true,
       subMaxLevel: 3,
       auto2top: true,
-    }
+      latex: {
+          inlineMath   : [['$', '$'], ['\\(', '\\)']], // default
+          displayMath  : [['$$', '$$']],               // default
+          }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
@@ -123,7 +126,7 @@
   <!-- enable prism syntax highlighting for python -->
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1.27.0/components/prism-json.min.js"></script>
-
+  <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
 </body>
 
 </html>

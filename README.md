@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Blogging Like a Hacker
+---
 
 # sandy-bultena.github.io
 Just trying
@@ -25,3 +28,5 @@ more test
 <span>\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \]</span>
 
 Moved script loads to body
+
+Added docsify LaTex
