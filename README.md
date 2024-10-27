@@ -21,11 +21,11 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 Added formula for markdown
 
-\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \]
+\\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
 
 more test
 
-<span>\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \]</span>
+<span>\\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]</span>
 
 Moved script loads to body
 
