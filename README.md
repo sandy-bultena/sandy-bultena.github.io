@@ -1,13 +1,3 @@
-  <script>
-  MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']]
-    }
-  };
-</script>
-  <script type="text/javascript" id="MathJax-script" async
-    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-  </script>
 
 
 # sandy-bultena.github.io
@@ -33,3 +23,5 @@ Added formula for markdown
 more test
 
 <span>\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \]</span>
+
+Moved script loads to body
