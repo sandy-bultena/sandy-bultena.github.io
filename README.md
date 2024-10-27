@@ -30,3 +30,5 @@ more test
 Moved script loads to body
 
 Added docsify LaTex
+
+Removed Jeckyll stuff
