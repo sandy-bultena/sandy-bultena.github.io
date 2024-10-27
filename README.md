@@ -14,22 +14,19 @@ Changed mathjax
 
 Added more stuff for mathjax
 
-$a=\sqrt b$
+$a=\\sqrt b$
 
-When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
-
+When \\(a \\ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 Added formula for markdown
 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \]
 
-$$x_n = \sum_{i=1}^n {1\over i}$$
+more test
 
-$$a_i = f(a_{i-1})$$
+<span>\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \]</span>
 
+Moved script loads to body
 
 Added docsify LaTex
-
-Removed Jeckyll stuff
-
