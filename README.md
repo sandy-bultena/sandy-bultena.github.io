@@ -32,3 +32,5 @@ Using dollar signs instead of square brackets
 Moved script loads to body
 
 Added docsify LaTex
+
+It works, but with no sidebar
