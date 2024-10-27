@@ -1,8 +1,6 @@
 
 # sandy-bultena.github.io
-Just trying
-Where the hell is the sidebar?
-Maybe now?
+Putting mathjax back
 
 $a=\sqrt b$
 
