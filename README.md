@@ -1,24 +1,34 @@
+# Programming in Science - Fall 2024
 
-# sandy-bultena.github.io
-Putting mathjax back
+*Welcome to 420-SN1 Programming in Science*
 
-$a=\sqrt b$
+In this course, you will learn everything about the basics of programming to solve scientific problems, read data from files, clean up the data, apply mathematical formulas, and more. 
 
-When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+<img src="Images/gencraft_SN1_icon.png" height=450/>
+This image was AI generated. 
 
-Added formula for markdown
+This website provides you with additional notes and practice exercises that can help you better understand and master the concepts seen in class. 
 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+- Notes
+- Labs 
+- Practice Exercises
 
-more test
 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
-Using dollar signs instead of square brackets
+# Course Outline
 
-Moved script loads to body
+You can download a copy of the course outline [here](https://john-abbott-college.github.io/SN1-Notes/Files/FALL2024.COMPUTER%20SCIENCE.420-SN1-GENERAL.pdf).
 
-Added docsify LaTex
 
-It works, but with no sidebar
+
+# Léa Submission Guide
+
+All assignments need to be submitted through Léa. This [guide](https://john-abbott-college.github.io/SN1-Notes/Files/Léa%Guide.pdf) will help you learn how Léa works.
+
+
+
+# Tools & Materials
+
+- PyCharm Community Edition 2024
+- Python version 3.10 or above
+- Access to the Internet.
