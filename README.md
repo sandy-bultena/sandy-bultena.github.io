@@ -1,11 +1,7 @@
----
-layout: post
-title: Blogging Like a Hacker
----
 
 # sandy-bultena.github.io
 Just trying
-
+removed jekyll top layer
 
 $a=\sqrt b$
 
