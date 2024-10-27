@@ -24,6 +24,10 @@ Added formula for markdown
 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
+$$x_n = \sum_{i=1}^n {1\over i}$$
+
+$$a_i = f(a_{i-1})$$
+
 
 Added docsify LaTex
 
